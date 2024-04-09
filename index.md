@@ -2,7 +2,7 @@
 
 ## Who I Am
 Hello! I'm Jason, a computer science student passionate about exploring the intersections between technology and various interests like finance or geography.
-[Go to My LinkedIn section](#Connect-with-Me)
+[Go to My LinkedIn section](#connect-with-me)
 
 ### My Interests
 
