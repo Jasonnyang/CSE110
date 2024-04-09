@@ -7,8 +7,10 @@ Hello! I'm Jason, a computer science student passionate about exploring the inte
 ### My Interests
 
 - **Geoguessr**: I enjoy exploring the world and grinding the leaderboard in this game.
+![Geoguessr](./pictures/geoguessr.png)
 - **Tennis**: I have played the sport since high school and have been both a coach or player almost my whole life. 
 - **Stocks**: I like analyzing market trends and finding patterns in stocks to day trade and test my luck in futures.
+![Stocks](./pictures/stocks.png)
 > As a programmer, I'm dedicated to crafting solutions that merge my technical skills with my diverse interests, aiming to create impactful and innovative applications.
 
 ### My favorite piece of code 
@@ -21,7 +23,12 @@ class Solution:
                     return [i, j]
 ```
 
-Tasks I'm currently working on:
+### My 3 Favorite Leetcode Questions
+1. Two Sum
+2. Three Sum
+3. Four Sum
+
+### Tasks I'm currently working on:
 - [ ] Reaching top 1000 in Geoguessr
 - [x] Getting a summer internship
 - [ ] Learning how to count cards in Blackjack
